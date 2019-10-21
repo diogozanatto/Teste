@@ -1,0 +1,10 @@
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Octokit.dll
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Octokit.xml
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Diogo\Documents\Visual Studio 2017\Projects\Teste\Teste\obj\Debug\Teste.pdb

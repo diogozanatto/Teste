@@ -28,7 +28,7 @@ namespace Teste
             var client = new GitHubClient(new ProductHeaderValue("Github-API-Test"));
 
             var contents = await client.Repository.GetAllForUser("takenet");
-            var contentsList =  contents.OrderBy(x => x.CreatedAt.Date).Take(5).ToList();
+            var contentsList =  contents.OrderBy(x => x.CreatedAt.Date).Where(x => x.FullName.Contains("csharp")).Take(5).ToList();
 
             List<Repositorio> repositorio = new List<Repositorio>();
 
